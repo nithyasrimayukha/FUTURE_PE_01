@@ -1,0 +1,24 @@
+Project Title:
+AI Website Copy Generator for Local Businesses
+
+Business Chosen:
+GlowUp Beauty Salon
+
+Objective:
+To generate professional AI-powered website copy using prompt engineering techniques.
+
+Tools Used:
+- Windsurf Editor
+- ChatGPT
+
+Features:
+- Homepage generation
+- Service descriptions
+- Testimonials
+- CTA generation
+
+Skills Learned:
+- Prompt engineering
+- Website copywriting
+- AI workflow design
+- Structured content generation

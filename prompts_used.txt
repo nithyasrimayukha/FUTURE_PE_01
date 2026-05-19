@@ -1,0 +1,21 @@
+Prompt 1:
+
+Act as a professional website copywriter.
+
+Create website copy for a local beauty salon named "GlowUp Beauty Salon".
+
+Include:
+1. Homepage Hero Section
+2. About Us
+3. Services Section
+4. Why Choose Us
+5. Customer Testimonials
+6. Contact/Booking CTA
+
+Tone should be:
+- Friendly
+- Modern
+- Professional
+- Persuasive
+
+Keep the content website-ready and simple.
